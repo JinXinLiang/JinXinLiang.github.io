@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>标注图层</title>
+    <style>
+        html,
+        body,
+        #map {
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        .demo-title {
+            position: absolute;
+            top: 50px;
+            left: 50px;
+            z-index: 1;
+        }
+
+        .amap-info-window{
+            width: 150px;
+            background: #fff;
+            border-radius: 3px;
+            padding: 3px 7px;
+            box-shadow: 0 2px 6px 0 rgba(114, 124, 245, .5);
+            position: relative;
+            font-size: 12px;
+        }
+        h1 {
+            margin: 0;
+            color: #ACB3BB;
+        }
+
+        h3 {
+            font-weight: normal;
+            margin-top: 5px;
+            color: #8E939D;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="demo-title">
+        <h1>摩捷郑州-网点分布</h1>
+<!--      	<h3>使用Loca数据源展示海量点标注</h3>-->
+    </div>
+    <div id="map"></div>
+    <script src="https://webapi.amap.com/maps?v=2.0&key=78239f42c84f37c6a5a032a959b57fe1"></script>
+    <script src="https://webapi.amap.com/loca?v=2.0.0&key=78239f42c84f37c6a5a032a959b57fe1"></script>
+	<script>
+        var map = new AMap.Map('map', {
+            zoom: 13.12,
+            showLabel: false,
+            viewMode: '3D',
+            center: [113.71703, 34.712416],
+            mapStyle: 'amap://styles/28f5f1e7774710f2d218ab9ba738b444',
+        });
+
+        var loca = new Loca.Container({
+            map,
+        });
+
+        var labelsLayer = (window.labelsLayer = new Loca.LabelsLayer({
+            zooms: [10, 20],
+        }));
+
+        var geo = new Loca.GeoJSONSource({
+            // url: 'https://a.amap.com/Loca/static/loca-v2/demos/mock_data/charging_pile.json',
+            url: 'assert/network.json',
+        });
+        // console.log(geo)
+        labelsLayer.setSource(geo);
+
+      	// labelsLayer.setStyle的配置项即AMap.LabelMarker的配置项
+        labelsLayer.setStyle({
+            icon: {
+                type: 'image',
+                image: 'icon.jpg',
+                size: [36, 36],
+                anchor: 'center',
+            },
+            text: {
+                // 每项配置都可使用回调函数来动态配置
+                content: (index, feat) => {
+                    return feat.properties.name.slice(3,);
+                },
+                style: {
+                    fontSize: 12,
+                    fontWeight: 'normal',
+                    fillColor:function (index, feat){
+                        var income = Number(feat.properties.ID4)+ Number(feat.properties.ID6);
+                         return income >= 7 ? '#00CD66' :
+                                income >= 5 ? '#FFA500' :
+                                    income >= 1 ? '#CD950C' :
+                                        income = 0 ? '#FF0000' : '#FF0000';
+                    },
+                    // fillColor: '#87CEFA',
+                    strokeColor: '#000',
+                    strokeWidth: 0,
+                },
+                direction: 'bottom',
+            },
+            extData: (index, feat) => {
+                // console.log(feat.properties.name)
+                return feat.properties;
+            },
+        });
+        loca.add(labelsLayer);
+
+        labelsLayer.on('complete', () => {
+            var normalMarker = new AMap.Marker({
+                offset: [70, -15],
+            });
+            var labelMarkers = labelsLayer.getLabelsLayer().getAllOverlays();
+            // console.log(labelMarkers)
+            for (let marker of labelMarkers) {
+                // console.log(marker.getExtData())
+                marker.on('mouseover', (e) => {
+                    var position = e.data.data && e.data.data.position;
+                    // console.log(position)
+                    if (position) {
+                        normalMarker.setContent(
+                            '<div class="amap-info-window">ID4数量：' + e.target.getExtData().ID4 + '</div>'+
+                            '<div class="amap-info-window">ID6数量：' + e.target.getExtData().ID6 + '</div>'+
+                            '<div class="amap-info-window">车辆平均电量：' + e.target.getExtData().electric + '</div>',
+                        );
+                        normalMarker.setPosition(position);
+                        map.add(normalMarker);
+                    }
+                });
+                marker.on('mouseout', () => {
+                    map.remove(normalMarker);
+                });
+            }
+        });
+
+  	</script>
+</body>
+
+</html>

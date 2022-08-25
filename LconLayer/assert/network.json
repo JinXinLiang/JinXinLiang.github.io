@@ -1,0 +1,5269 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.71703,
+                    34.712416
+                ]
+            },
+            "properties": {
+                "name": "郑州-阳光城3号院划线停车位",
+                "ID4": "0",
+                "ID6": "0",
+                "electric": "0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.994811,
+                    34.719409
+                ]
+            },
+            "properties": {
+                "name": "郑州-中牟电力职业学院划线停车位",
+                "ID4": "1",
+                "ID6": "1",
+                "electric": "61.8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.667492,
+                    34.868987
+                ]
+            },
+            "properties": {
+                "name": "郑州-香山路划线停车位",
+                "ID4": "4",
+                "ID6": "4",
+                "electric": "68.12"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.823016,
+                    34.743545
+                ]
+            },
+            "properties": {
+                "name": "郑州-圃田嘉园划线停车位",
+                "ID4": "2",
+                "ID6": "1",
+                "electric": "72.4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.797627,
+                    34.747814
+                ]
+            },
+            "properties": {
+                "name": "郑州-潭南街划线停车位",
+                "ID4": "0",
+                "ID6": "0",
+                "electric": "0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.876752,
+                    34.734067
+                ]
+            },
+            "properties": {
+                "name": "郑州-白沙前程小学停车场",
+                "ID4": "4",
+                "ID6": "1",
+                "electric": "58.96"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.52703,
+                    34.712269
+                ]
+            },
+            "properties": {
+                "name": "郑州-建筑学院东门划线车位",
+                "ID4": "7",
+                "ID6": "4",
+                "electric": "50.76"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.804187,
+                    34.8003
+                ]
+            },
+            "properties": {
+                "name": "郑州-经贸职业学院东南门划线车位",
+                "ID4": "6",
+                "ID6": "2",
+                "electric": "66.12"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.816167,
+                    34.796819
+                ]
+            },
+            "properties": {
+                "name": "郑州-河南农业学院西门划线车位",
+                "ID4": "4",
+                "ID6": "2",
+                "electric": "77.37"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.816209,
+                    34.791574
+                ]
+            },
+            "properties": {
+                "name": "郑州-河南警察学院西门划线车位",
+                "ID4": "3",
+                "ID6": "5",
+                "electric": "66.62"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.815316,
+                    34.787017
+                ]
+            },
+            "properties": {
+                "name": "郑州-河南财经政法大学西北门划线车位",
+                "ID4": "5",
+                "ID6": "2",
+                "electric": "59.71"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.805706,
+                    34.784641
+                ]
+            },
+            "properties": {
+                "name": "郑州-中医药大学北门划线车位",
+                "ID4": "7",
+                "ID6": "8",
+                "electric": "61.44"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.787379,
+                    34.784308
+                ]
+            },
+            "properties": {
+                "name": "郑州-相济路划线车位",
+                "ID4": "6",
+                "ID6": "5",
+                "electric": "53.35"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.525099,
+                    34.714389
+                ]
+            },
+            "properties": {
+                "name": "郑州-建筑学院北门划线车位",
+                "ID4": "4",
+                "ID6": "1",
+                "electric": "50.8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.512523,
+                    34.709015
+                ]
+            },
+            "properties": {
+                "name": "郑州-科技学院东门划线车位",
+                "ID4": "2",
+                "ID6": "1",
+                "electric": "55.13"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.665815,
+                    34.756201
+                ]
+            },
+            "properties": {
+                "name": "郑州-金博大商场停车场",
+                "ID4": "2",
+                "ID6": "5",
+                "electric": "57.91"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.685478,
+                    34.79627
+                ]
+            },
+            "properties": {
+                "name": "郑州-科新花园停车场",
+                "ID4": "6",
+                "ID6": "2",
+                "electric": "52.38"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.542768,
+                    34.82609
+                ]
+            },
+            "properties": {
+                "name": "郑州-河南工业大学地铁A口地面停车场",
+                "ID4": "4",
+                "ID6": "3",
+                "electric": "58.14"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.54246,
+                    34.819562
+                ]
+            },
+            "properties": {
+                "name": "郑州-郑大科技园地铁站D口停车场",
+                "ID4": "1",
+                "ID6": "3",
+                "electric": "72.5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.844483,
+                    34.529627
+                ]
+            },
+            "properties": {
+                "name": "郑州-凯芙国际酒店停车场",
+                "ID4": "4",
+                "ID6": "3",
+                "electric": "47.14"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.718862,
+                    34.78467
+                ]
+            },
+            "properties": {
+                "name": "郑州-温哥华山庄停车场",
+                "ID4": "2",
+                "ID6": "2",
+                "electric": "51.15"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.735719,
+                    34.74752
+                ]
+            },
+            "properties": {
+                "name": "郑州-麦德龙商超（郑东商场）停车场",
+                "ID4": "12",
+                "ID6": "4",
+                "electric": "50.65"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.644341,
+                    34.799055
+                ]
+            },
+            "properties": {
+                "name": "郑州-五洲大酒店停车场",
+                "ID4": "2",
+                "ID6": "2",
+                "electric": "83.05"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.719975,
+                    34.76192
+                ]
+            },
+            "properties": {
+                "name": "郑州-盛润国际广场停车场",
+                "ID4": "2",
+                "ID6": "1",
+                "electric": "49.13"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.659077,
+                    34.808153
+                ]
+            },
+            "properties": {
+                "name": "郑州-东润泰和苑停车场",
+                "ID4": "3",
+                "ID6": "1",
+                "electric": "54.3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.615158,
+                    34.720557
+                ]
+            },
+            "properties": {
+                "name": "郑州-帝湖商场停车场",
+                "ID4": "3",
+                "ID6": "2",
+                "electric": "38.36"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.640768,
+                    34.719244
+                ]
+            },
+            "properties": {
+                "name": "郑州-明德停车场",
+                "ID4": "3",
+                "ID6": "1",
+                "electric": "56.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.652876,
+                    34.799873
+                ]
+            },
+            "properties": {
+                "name": "郑州-河南省中医院停车场",
+                "ID4": "0",
+                "ID6": "3",
+                "electric": "55.07"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.627044,
+                    34.809694
+                ]
+            },
+            "properties": {
+                "name": "郑州-凯润商务酒店停车场",
+                "ID4": "6",
+                "ID6": "4",
+                "electric": "69.18"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.754254,
+                    34.712003
+                ]
+            },
+            "properties": {
+                "name": "郑州-东美家园停车场",
+                "ID4": "2",
+                "ID6": "2",
+                "electric": "73.65"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.513188,
+                    34.706361
+                ]
+            },
+            "properties": {
+                "name": "郑州-同兴街两侧停车区",
+                "ID4": "5",
+                "ID6": "3",
+                "electric": "55.65"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.756464,
+                    34.749283
+                ]
+            },
+            "properties": {
+                "name": "郑州-尚书院地上停车场",
+                "ID4": "6",
+                "ID6": "2",
+                "electric": "53.15"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.549673,
+                    34.794249
+                ]
+            },
+            "properties": {
+                "name": "郑州-梧桐街宜尚酒店停车场",
+                "ID4": "8",
+                "ID6": "1",
+                "electric": "50.18"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.567101,
+                    34.805076
+                ]
+            },
+            "properties": {
+                "name": "郑州-正弘生活广场停车场",
+                "ID4": "6",
+                "ID6": "3",
+                "electric": "45.6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.524417,
+                    34.810124
+                ]
+            },
+            "properties": {
+                "name": "郑州-万科城采薇苑停车场",
+                "ID4": "7",
+                "ID6": "2",
+                "electric": "50.09"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.517837,
+                    34.822359
+                ]
+            },
+            "properties": {
+                "name": "郑州-须水河公园停车场",
+                "ID4": "7",
+                "ID6": "2",
+                "electric": "53.22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.860083,
+                    34.559796
+                ]
+            },
+            "properties": {
+                "name": "郑州-沃金山广场东门对面停车场",
+                "ID4": "4",
+                "ID6": "1",
+                "electric": "51.2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.662021,
+                    34.752843
+                ]
+            },
+            "properties": {
+                "name": "郑州-二七广场停车场",
+                "ID4": "1",
+                "ID6": "3",
+                "electric": "43.25"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.680419,
+                    34.762096
+                ]
+            },
+            "properties": {
+                "name": "郑州-紫荆山百货停车场",
+                "ID4": "2",
+                "ID6": "1",
+                "electric": "80.4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.681606,
+                    34.734492
+                ]
+            },
+            "properties": {
+                "name": "郑州-管城紫龙苑停车场",
+                "ID4": "4",
+                "ID6": "2",
+                "electric": "62.7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.665581,
+                    34.803455
+                ]
+            },
+            "properties": {
+                "name": "郑州-河南政法学院东门停车场",
+                "ID4": "3",
+                "ID6": "1",
+                "electric": "45.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.700306,
+                    34.720538
+                ]
+            },
+            "properties": {
+                "name": "郑州-郑商国际广场地上停车场",
+                "ID4": "4",
+                "ID6": "0",
+                "electric": "52.5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.710831,
+                    34.742589
+                ]
+            },
+            "properties": {
+                "name": "郑州-凤凰城市广场D区停车场",
+                "ID4": "3",
+                "ID6": "1",
+                "electric": "73.25"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.718544,
+                    34.747825
+                ]
+            },
+            "properties": {
+                "name": "郑州-英协花园南区停车场",
+                "ID4": "4",
+                "ID6": "0",
+                "electric": "49.75"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.696531,
+                    34.801249
+                ]
+            },
+            "properties": {
+                "name": "郑州-晨旭路地面停车场",
+                "ID4": "2",
+                "ID6": "1",
+                "electric": "50.53"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.609586,
+                    34.732626
+                ]
+            },
+            "properties": {
+                "name": "郑州-中原新城（汝河路）地上停车场",
+                "ID4": "2",
+                "ID6": "2",
+                "electric": "59.8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.652818,
+                    34.809188
+                ]
+            },
+            "properties": {
+                "name": "郑州-安军城小区停车场",
+                "ID4": "1",
+                "ID6": "3",
+                "electric": "42.75"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.68176,
+                    34.778562
+                ]
+            },
+            "properties": {
+                "name": "郑州-正道中环停车场",
+                "ID4": "2",
+                "ID6": "1",
+                "electric": "68.53"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.626493,
+                    34.752672
+                ]
+            },
+            "properties": {
+                "name": "郑州-中原商贸城地面停车场",
+                "ID4": "2",
+                "ID6": "2",
+                "electric": "54.85"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.613277,
+                    34.782093
+                ]
+            },
+            "properties": {
+                "name": "郑州-冉屯路世纪联华停车场",
+                "ID4": "3",
+                "ID6": "1",
+                "electric": "57.25"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.643765,
+                    34.721614
+                ]
+            },
+            "properties": {
+                "name": "郑州-郑州卫校停车场",
+                "ID4": "3",
+                "ID6": "1",
+                "electric": "60.25"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.679104,
+                    34.842461
+                ]
+            },
+            "properties": {
+                "name": "郑州-郑州客运北站停车场",
+                "ID4": "2",
+                "ID6": "1",
+                "electric": "77.33"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.592416,
+                    34.747754
+                ]
+            },
+            "properties": {
+                "name": "郑州-中原中路停车场",
+                "ID4": "2",
+                "ID6": "2",
+                "electric": "49.65"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.627664,
+                    34.709495
+                ]
+            },
+            "properties": {
+                "name": "郑州-二七区北京华联停车场",
+                "ID4": "3",
+                "ID6": "1",
+                "electric": "62.55"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.625811,
+                    34.68295
+                ]
+            },
+            "properties": {
+                "name": "郑州-丹尼斯地面停车场",
+                "ID4": "4",
+                "ID6": "0",
+                "electric": "53.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.596365,
+                    34.736903
+                ]
+            },
+            "properties": {
+                "name": "郑州-昆仑华府望岳停车场",
+                "ID4": "4",
+                "ID6": "0",
+                "electric": "56.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.760814,
+                    34.740827
+                ]
+            },
+            "properties": {
+                "name": "郑州-鑫苑鑫城停车场",
+                "ID4": "3",
+                "ID6": "1",
+                "electric": "61.9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.656879,
+                    34.714356
+                ]
+            },
+            "properties": {
+                "name": "郑州-金泉停车场",
+                "ID4": "2",
+                "ID6": "2",
+                "electric": "58.6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.671648,
+                    34.792072
+                ]
+            },
+            "properties": {
+                "name": "郑州-豫通驾校停车场",
+                "ID4": "2",
+                "ID6": "1",
+                "electric": "55.2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.770238,
+                    34.743765
+                ]
+            },
+            "properties": {
+                "name": "郑州-万科福晟万科誉停车场",
+                "ID4": "4",
+                "ID6": "0",
+                "electric": "55.25"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.749247,
+                    34.720749
+                ]
+            },
+            "properties": {
+                "name": "郑州-天明园小区停车场",
+                "ID4": "1",
+                "ID6": "3",
+                "electric": "67.25"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.753835,
+                    34.720255
+                ]
+            },
+            "properties": {
+                "name": "郑州-经开区外国语女子中学停车场",
+                "ID4": "3",
+                "ID6": "1",
+                "electric": "64.1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.739811,
+                    34.749883
+                ]
+            },
+            "properties": {
+                "name": "郑州-河南省中都皮肤医院停车场",
+                "ID4": "3",
+                "ID6": "0",
+                "electric": "44.13"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.56863,
+                    34.816974
+                ]
+            },
+            "properties": {
+                "name": "郑州-郑州市中心医院（高新区）停车场",
+                "ID4": "2",
+                "ID6": "1",
+                "electric": "44.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.806692,
+                    34.773475
+                ]
+            },
+            "properties": {
+                "name": "郑州-市体育中心地铁站停车场",
+                "ID4": "2",
+                "ID6": "1",
+                "electric": "71.47"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.681929,
+                    34.800394
+                ]
+            },
+            "properties": {
+                "name": "郑州-金水区融元广场停车场",
+                "ID4": "2",
+                "ID6": "1",
+                "electric": "70.47"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.557633,
+                    34.830429
+                ]
+            },
+            "properties": {
+                "name": "郑州-河南工业大学东门对面停车场",
+                "ID4": "3",
+                "ID6": "1",
+                "electric": "51.35"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.676274,
+                    34.716688
+                ]
+            },
+            "properties": {
+                "name": "郑州-通站路停车场",
+                "ID4": "3",
+                "ID6": "1",
+                "electric": "68.5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.491415,
+                    34.763891
+                ]
+            },
+            "properties": {
+                "name": "郑州-东佳一汽大众店",
+                "ID4": "4",
+                "ID6": "1",
+                "electric": "58.8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.852224,
+                    34.699418
+                ]
+            },
+            "properties": {
+                "name": "郑州-万通汇合一汽大众店",
+                "ID4": "3",
+                "ID6": "2",
+                "electric": "40.44"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.717351,
+                    34.771962
+                ]
+            },
+            "properties": {
+                "name": "郑州-CBD3号停车场",
+                "ID4": "3",
+                "ID6": "5",
+                "electric": "57.25"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.787586,
+                    34.741105
+                ]
+            },
+            "properties": {
+                "name": "郑州-莆田西路划线车位",
+                "ID4": "2",
+                "ID6": "2",
+                "electric": "74.5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.733095,
+                    34.746696
+                ]
+            },
+            "properties": {
+                "name": "郑州-威佳众飞一汽大众店",
+                "ID4": "5",
+                "ID6": "3",
+                "electric": "70.05"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.694018,
+                    34.825278
+                ]
+            },
+            "properties": {
+                "name": "郑州-万通一汽大众店",
+                "ID4": "2",
+                "ID6": "0",
+                "electric": "59.07"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.730185,
+                    34.722777
+                ]
+            },
+            "properties": {
+                "name": "郑州-中原福塔划线车位",
+                "ID4": "7",
+                "ID6": "8",
+                "electric": "74.77"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.732974,
+                    34.799455
+                ]
+            },
+            "properties": {
+                "name": "郑州-如意西路划线车位",
+                "ID4": "5",
+                "ID6": "1",
+                "electric": "45.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.731642,
+                    34.795594
+                ]
+            },
+            "properties": {
+                "name": "郑州-如意河西七街划线车位",
+                "ID4": "5",
+                "ID6": "2",
+                "electric": "36.29"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.77061,
+                    34.773751
+                ]
+            },
+            "properties": {
+                "name": "郑州-心怡路划线车位",
+                "ID4": "1",
+                "ID6": "2",
+                "electric": "49.67"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.673961,
+                    34.708074
+                ]
+            },
+            "properties": {
+                "name": "郑州-爱馨阳光城西门划线车位",
+                "ID4": "8",
+                "ID6": "8",
+                "electric": "45.55"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.897451,
+                    34.796644
+                ]
+            },
+            "properties": {
+                "name": "郑州-电力职业学院划线车位",
+                "ID4": "1",
+                "ID6": "5",
+                "electric": "47.5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.893817,
+                    34.79301
+                ]
+            },
+            "properties": {
+                "name": "郑州-工商学院6号门划线车位",
+                "ID4": "1",
+                "ID6": "3",
+                "electric": "56.85"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.88792,
+                    34.782403
+                ]
+            },
+            "properties": {
+                "name": "郑州-中原文化艺术院划线车位",
+                "ID4": "1",
+                "ID6": "1",
+                "electric": "44.5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.850914,
+                    34.759889
+                ]
+            },
+            "properties": {
+                "name": "郑州-恭秀路划线车位",
+                "ID4": "7",
+                "ID6": "3",
+                "electric": "53.1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.861358,
+                    34.774895
+                ]
+            },
+            "properties": {
+                "name": "郑州-河南财政金融学院划线车位",
+                "ID4": "7",
+                "ID6": "3",
+                "electric": "66.18"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.848082,
+                    34.781164
+                ]
+            },
+            "properties": {
+                "name": "郑州-河南行政学院划线车位",
+                "ID4": "3",
+                "ID6": "5",
+                "electric": "50.65"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.60568,
+                    34.862487
+                ]
+            },
+            "properties": {
+                "name": "郑州-郑州财经学院北划线车位",
+                "ID4": "1",
+                "ID6": "8",
+                "electric": "59.84"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.624893,
+                    34.854042
+                ]
+            },
+            "properties": {
+                "name": "郑州-锦艺四季城划线车位",
+                "ID4": "10",
+                "ID6": "2",
+                "electric": "52.43"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.626941,
+                    34.861615
+                ]
+            },
+            "properties": {
+                "name": "郑州-郑州工程技术学院西门划线车位",
+                "ID4": "4",
+                "ID6": "5",
+                "electric": "70.56"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.63556,
+                    34.857551
+                ]
+            },
+            "properties": {
+                "name": "郑州-开陇城1号院划线车位",
+                "ID4": "4",
+                "ID6": "4",
+                "electric": "63.02"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.632754,
+                    34.8621
+                ]
+            },
+            "properties": {
+                "name": "郑州-郑州工程技术学院东门划线车位",
+                "ID4": "4",
+                "ID6": "5",
+                "electric": "64.78"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.64435,
+                    34.876579
+                ]
+            },
+            "properties": {
+                "name": "郑州-万科天伦紫台销售中心地面划线停车位",
+                "ID4": "6",
+                "ID6": "3",
+                "electric": "59.86"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.685863,
+                    34.86831
+                ]
+            },
+            "properties": {
+                "name": "郑州-虚拟网点",
+                "ID4": "0",
+                "ID6": "0",
+                "electric": "0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.539644,
+                    34.743922
+                ]
+            },
+            "properties": {
+                "name": "郑州-奥体公园地面停车场",
+                "ID4": "3",
+                "ID6": "2",
+                "electric": "61.8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.782003,
+                    34.75608
+                ]
+            },
+            "properties": {
+                "name": "郑州-郑州东站P2停车场",
+                "ID4": "4",
+                "ID6": "2",
+                "electric": "60.83"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.530879,
+                    34.698477
+                ]
+            },
+            "properties": {
+                "name": "郑州-澍青医学院西2门口划线停车位",
+                "ID4": "7",
+                "ID6": "8",
+                "electric": "50.13"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.529174,
+                    34.786551
+                ]
+            },
+            "properties": {
+                "name": "郑州-黄河护理学院",
+                "ID4": "5",
+                "ID6": "6",
+                "electric": "58.49"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.525691,
+                    34.827444
+                ]
+            },
+            "properties": {
+                "name": "郑州-锦和苑莲花街北辅道划线停车位",
+                "ID4": "4",
+                "ID6": "6",
+                "electric": "50.22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.654943,
+                    34.848697
+                ]
+            },
+            "properties": {
+                "name": "郑州-锦艺金水湾观澜苑划线停车位",
+                "ID4": "1",
+                "ID6": "0",
+                "electric": "93.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.771328,
+                    34.760835
+                ]
+            },
+            "properties": {
+                "name": "郑州-绿地之窗普惠路路边划线车位",
+                "ID4": "2",
+                "ID6": "0",
+                "electric": "89.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.603209,
+                    34.743035
+                ]
+            },
+            "properties": {
+                "name": "郑州-万达南停车场",
+                "ID4": "4",
+                "ID6": "3",
+                "electric": "53.94"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.626008,
+                    34.726984
+                ]
+            },
+            "properties": {
+                "name": "郑州-兰德新天地购物中心停车场",
+                "ID4": "5",
+                "ID6": "1",
+                "electric": "56.83"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.681168,
+                    34.831298
+                ]
+            },
+            "properties": {
+                "name": "郑州-新龙站停车场",
+                "ID4": "3",
+                "ID6": "1",
+                "electric": "65.85"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.637276,
+                    34.782272
+                ]
+            },
+            "properties": {
+                "name": "郑州-旺坤临时停车场",
+                "ID4": "6",
+                "ID6": "2",
+                "electric": "51.65"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.615252,
+                    34.754992
+                ]
+            },
+            "properties": {
+                "name": "郑州-大商建设路停车场",
+                "ID4": "1",
+                "ID6": "2",
+                "electric": "60.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.574188,
+                    34.747071
+                ]
+            },
+            "properties": {
+                "name": "郑州-中原西路169号停车场",
+                "ID4": "3",
+                "ID6": "1",
+                "electric": "42.25"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.669001,
+                    34.692016
+                ]
+            },
+            "properties": {
+                "name": "郑州-联创佳苑南门停车场",
+                "ID4": "8",
+                "ID6": "3",
+                "electric": "60.25"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.628728,
+                    34.868584
+                ]
+            },
+            "properties": {
+                "name": "郑州-北郡2号停车场",
+                "ID4": "2",
+                "ID6": "2",
+                "electric": "56.3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.643342,
+                    34.710553
+                ]
+            },
+            "properties": {
+                "name": "郑州-长江路停车场",
+                "ID4": "4",
+                "ID6": "0",
+                "electric": "80.2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.399759,
+                    34.768745
+                ]
+            },
+            "properties": {
+                "name": "郑州-绿荫半岛划线车位",
+                "ID4": "3",
+                "ID6": "1",
+                "electric": "37.25"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.414484,
+                    34.772999
+                ]
+            },
+            "properties": {
+                "name": "郑州-郑氏三公广场台上停车场",
+                "ID4": "1",
+                "ID6": "3",
+                "electric": "56.35"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.446624,
+                    34.769298
+                ]
+            },
+            "properties": {
+                "name": "郑州-尹玉花筋骨中医院地面停车场",
+                "ID4": "3",
+                "ID6": "3",
+                "electric": "56.47"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.44388,
+                    34.754424
+                ]
+            },
+            "properties": {
+                "name": "郑州-清华大溪地1号院划线车位",
+                "ID4": "5",
+                "ID6": "1",
+                "electric": "69.47"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.449395,
+                    34.752876
+                ]
+            },
+            "properties": {
+                "name": "郑州-奥帕拉拉水公园划线停车位",
+                "ID4": "5",
+                "ID6": "3",
+                "electric": "53.3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.797643,
+                    34.813794
+                ]
+            },
+            "properties": {
+                "name": "郑州-龙子湖小学划线停车位",
+                "ID4": "4",
+                "ID6": "2",
+                "electric": "58.47"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.765904,
+                    34.817083
+                ]
+            },
+            "properties": {
+                "name": "郑州-龙翔嘉苑划线停车位",
+                "ID4": "4",
+                "ID6": "4",
+                "electric": "50.25"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.746429,
+                    34.767604
+                ]
+            },
+            "properties": {
+                "name": "郑州-民生西街划线停车位",
+                "ID4": "5",
+                "ID6": "0",
+                "electric": "54.2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.856054,
+                    34.768264
+                ]
+            },
+            "properties": {
+                "name": "郑州-恒一雅居划线停车位",
+                "ID4": "9",
+                "ID6": "2",
+                "electric": "60.16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.932947,
+                    34.720038
+                ]
+            },
+            "properties": {
+                "name": "郑州-人文路划线停车位",
+                "ID4": "4",
+                "ID6": "3",
+                "electric": "45.09"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.938718,
+                    34.72625
+                ]
+            },
+            "properties": {
+                "name": "郑州-滨河路划线停车位",
+                "ID4": "1",
+                "ID6": "1",
+                "electric": "56.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.853063,
+                    34.583873
+                ]
+            },
+            "properties": {
+                "name": "郑州-康平湖地铁口划线停车位",
+                "ID4": "2",
+                "ID6": "4",
+                "electric": "44.77"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.716161,
+                    34.685728
+                ]
+            },
+            "properties": {
+                "name": "郑州-紫辰路划线停车位",
+                "ID4": "10",
+                "ID6": "2",
+                "electric": "60.65"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.744337,
+                    34.728372
+                ]
+            },
+            "properties": {
+                "name": "郑州-经北三路划线停车位",
+                "ID4": "4",
+                "ID6": "0",
+                "electric": "59.45"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.69668,
+                    34.702973
+                ]
+            },
+            "properties": {
+                "name": "郑州-永丰新城紫辰路划线车位",
+                "ID4": "0",
+                "ID6": "0",
+                "electric": "0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.702744,
+                    34.604223
+                ]
+            },
+            "properties": {
+                "name": "郑州-丰泽新苑祥安路划线车位",
+                "ID4": "0",
+                "ID6": "0",
+                "electric": "0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.898359,
+                    34.704627
+                ]
+            },
+            "properties": {
+                "name": "郑州-润之星商务酒店划线车位",
+                "ID4": "2",
+                "ID6": "1",
+                "electric": "69.27"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.997797,
+                    34.777756
+                ]
+            },
+            "properties": {
+                "name": "郑州-电影小镇划线车位",
+                "ID4": "2",
+                "ID6": "3",
+                "electric": "50.8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.00243,
+                    34.801532
+                ]
+            },
+            "properties": {
+                "name": "郑州-《只有河南》戏剧幻城划线车位",
+                "ID4": "1",
+                "ID6": "4",
+                "electric": "50.72"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.810843,
+                    34.791205
+                ]
+            },
+            "properties": {
+                "name": "郑州-龙子湖地铁口停车场",
+                "ID4": "1",
+                "ID6": "2",
+                "electric": "73.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.774201,
+                    34.753351
+                ]
+            },
+            "properties": {
+                "name": "郑州-普济路停车场",
+                "ID4": "2",
+                "ID6": "1",
+                "electric": "53.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.740314,
+                    34.782398
+                ]
+            },
+            "properties": {
+                "name": "郑州-九如路停车场",
+                "ID4": "1",
+                "ID6": "2",
+                "electric": "61.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.774606,
+                    34.746829
+                ]
+            },
+            "properties": {
+                "name": "郑州-寿丰街心怡路停车场",
+                "ID4": "3",
+                "ID6": "1",
+                "electric": "48.4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.765229,
+                    34.737029
+                ]
+            },
+            "properties": {
+                "name": "郑州-陇海路停车场",
+                "ID4": "2",
+                "ID6": "2",
+                "electric": "49.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.898921,
+                    34.706787
+                ]
+            },
+            "properties": {
+                "name": "郑州-郑州电气工程技工学校划线停车位",
+                "ID4": "2",
+                "ID6": "0",
+                "electric": "50.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.693613,
+                    34.594153
+                ]
+            },
+            "properties": {
+                "name": "郑州-昇达经贸管理学院划线停车位",
+                "ID4": "3",
+                "ID6": "4",
+                "electric": "42.4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.694482,
+                    34.607706
+                ]
+            },
+            "properties": {
+                "name": "郑州-龙湖御景路边划线停车位",
+                "ID4": "1",
+                "ID6": "3",
+                "electric": "58.95"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.773759,
+                    34.411959
+                ]
+            },
+            "properties": {
+                "name": "郑州-新郑市人民医院划线停车位",
+                "ID4": "2",
+                "ID6": "6",
+                "electric": "54.5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.763163,
+                    34.409045
+                ]
+            },
+            "properties": {
+                "name": "郑州-郑州西亚斯大学划线停车位",
+                "ID4": "22",
+                "ID6": "5",
+                "electric": "51.9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.750488,
+                    34.697079
+                ]
+            },
+            "properties": {
+                "name": "郑州-经开第四大街划线车位",
+                "ID4": "0",
+                "ID6": "1",
+                "electric": "85.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.79506,
+                    34.718485
+                ]
+            },
+            "properties": {
+                "name": "郑州-海马汽车公寓划线停车位",
+                "ID4": "3",
+                "ID6": "2",
+                "electric": "38.8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.749694,
+                    34.765959
+                ]
+            },
+            "properties": {
+                "name": "郑州-民生路划线停车位",
+                "ID4": "10",
+                "ID6": "3",
+                "electric": "48.46"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.743327,
+                    34.8442
+                ]
+            },
+            "properties": {
+                "name": "郑州-马头岗街划线停车位",
+                "ID4": "3",
+                "ID6": "0",
+                "electric": "61.67"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.723502,
+                    34.844622
+                ]
+            },
+            "properties": {
+                "name": "郑州-鸿宝路划线车位",
+                "ID4": "0",
+                "ID6": "0",
+                "electric": "0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.504394,
+                    34.676483
+                ]
+            },
+            "properties": {
+                "name": "郑州-首创奥特莱斯西划线停车场",
+                "ID4": "1",
+                "ID6": "2",
+                "electric": "71.33"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.81172,
+                    34.80591
+                ]
+            },
+            "properties": {
+                "name": "郑州-明理路划线停车位",
+                "ID4": "6",
+                "ID6": "4",
+                "electric": "51.88"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.80118,
+                    34.811597
+                ]
+            },
+            "properties": {
+                "name": "郑州-姚夏路划线停车位",
+                "ID4": "1",
+                "ID6": "3",
+                "electric": "57.55"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.527839,
+                    34.774368
+                ]
+            },
+            "properties": {
+                "name": "郑州-凯旋国际大酒店路边画线停车位",
+                "ID4": "9",
+                "ID6": "1",
+                "electric": "53.1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.487724,
+                    34.818384
+                ]
+            },
+            "properties": {
+                "name": "郑州-河阳路翠柏路划线停车位",
+                "ID4": "6",
+                "ID6": "1",
+                "electric": "54.71"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.897382,
+                    34.780002
+                ]
+            },
+            "properties": {
+                "name": "郑州-中原文化艺术学院荣昌路划线车位",
+                "ID4": "1",
+                "ID6": "0",
+                "electric": "53.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.754582,
+                    34.842725
+                ]
+            },
+            "properties": {
+                "name": "郑州-马林新村划线车位",
+                "ID4": "4",
+                "ID6": "3",
+                "electric": "51.71"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.766956,
+                    34.757209
+                ]
+            },
+            "properties": {
+                "name": "郑州-绿地中心南塔划线车位",
+                "ID4": "4",
+                "ID6": "1",
+                "electric": "54.24"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.7533,
+                    34.757248
+                ]
+            },
+            "properties": {
+                "name": "郑州-七里河公园路边划线车位",
+                "ID4": "6",
+                "ID6": "4",
+                "electric": "46.12"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.91584,
+                    34.788092
+                ]
+            },
+            "properties": {
+                "name": "郑州-春天里划线车位",
+                "ID4": "1",
+                "ID6": "1",
+                "electric": "51.5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.749603,
+                    34.415365
+                ]
+            },
+            "properties": {
+                "name": "郑州-湖滨路免费停车场",
+                "ID4": "7",
+                "ID6": "0",
+                "electric": "52.8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.810569,
+                    34.781963
+                ]
+            },
+            "properties": {
+                "name": "郑州-河南中医药大学划线车位",
+                "ID4": "6",
+                "ID6": "4",
+                "electric": "68.26"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.602923,
+                    34.78443
+                ]
+            },
+            "properties": {
+                "name": "郑州-电厂路划线停车位",
+                "ID4": "0",
+                "ID6": "0",
+                "electric": "0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.596879,
+                    34.888086
+                ]
+            },
+            "properties": {
+                "name": "郑州-惠济区法院划线停车位",
+                "ID4": "5",
+                "ID6": "6",
+                "electric": "59.25"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.812172,
+                    34.393224
+                ]
+            },
+            "properties": {
+                "name": "郑州-哈芙时代广场划线停车位",
+                "ID4": "7",
+                "ID6": "0",
+                "electric": "47.77"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.770686,
+                    34.782983
+                ]
+            },
+            "properties": {
+                "name": "郑州-祭城相济路划线车位",
+                "ID4": "4",
+                "ID6": "5",
+                "electric": "44.56"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.965361,
+                    34.750379
+                ]
+            },
+            "properties": {
+                "name": "郑州-绿博花园划线车位",
+                "ID4": "1",
+                "ID6": "2",
+                "electric": "48.87"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.803996,
+                    34.710242
+                ]
+            },
+            "properties": {
+                "name": "郑州-经南五路划线车位",
+                "ID4": "2",
+                "ID6": "5",
+                "electric": "41.11"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.557687,
+                    34.752629
+                ]
+            },
+            "properties": {
+                "name": "郑州-启福尚都划线停车位",
+                "ID4": "9",
+                "ID6": "1",
+                "electric": "56.78"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.644238,
+                    34.859001
+                ]
+            },
+            "properties": {
+                "name": "郑州-杏花街划线停车位",
+                "ID4": "2",
+                "ID6": "1",
+                "electric": "47.33"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.562413,
+                    34.816969
+                ]
+            },
+            "properties": {
+                "name": "郑州-翠竹街划线停车位",
+                "ID4": "3",
+                "ID6": "6",
+                "electric": "55.67"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.711406,
+                    34.689961
+                ]
+            },
+            "properties": {
+                "name": "郑州-紫辰路融创城划线车位",
+                "ID4": "6",
+                "ID6": "4",
+                "electric": "58.2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.711937,
+                    34.660706
+                ]
+            },
+            "properties": {
+                "name": "郑州-浔江中路免费停车场",
+                "ID4": "2",
+                "ID6": "2",
+                "electric": "76.05"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.706736,
+                    34.824627
+                ]
+            },
+            "properties": {
+                "name": "郑州-龙湖内环三全路划线停车位",
+                "ID4": "7",
+                "ID6": "1",
+                "electric": "51.65"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.816843,
+                    34.58095
+                ]
+            },
+            "properties": {
+                "name": "郑州-孟祥路划线停车位",
+                "ID4": "3",
+                "ID6": "2",
+                "electric": "65.2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.611362,
+                    34.887763
+                ]
+            },
+            "properties": {
+                "name": "郑州-绿源路划线停车位",
+                "ID4": "2",
+                "ID6": "2",
+                "electric": "49.2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.620292,
+                    34.858561
+                ]
+            },
+            "properties": {
+                "name": "郑州-艺茂国际仓清华园路划线停车位",
+                "ID4": "6",
+                "ID6": "3",
+                "electric": "60.98"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.011146,
+                    34.725715
+                ]
+            },
+            "properties": {
+                "name": "郑州-新世纪广场划线停车位",
+                "ID4": "6",
+                "ID6": "0",
+                "electric": "38.97"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.964338,
+                    34.720074
+                ]
+            },
+            "properties": {
+                "name": "郑州-宝峰街商都大道划线停车位",
+                "ID4": "4",
+                "ID6": "0",
+                "electric": "61.85"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.711095,
+                    34.427943
+                ]
+            },
+            "properties": {
+                "name": "郑州-郑州工业应用技术学院西校区划线停车位",
+                "ID4": "7",
+                "ID6": "5",
+                "electric": "71.57"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.569345,
+                    34.796657
+                ]
+            },
+            "properties": {
+                "name": "郑州-瑞达路划线停车位",
+                "ID4": "4",
+                "ID6": "4",
+                "electric": "58.8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.722091,
+                    34.530971
+                ]
+            },
+            "properties": {
+                "name": "郑州-中心社区路边两侧划线停车位",
+                "ID4": "2",
+                "ID6": "3",
+                "electric": "51.56"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.744865,
+                    34.430745
+                ]
+            },
+            "properties": {
+                "name": "郑州-郑新未来城购物广场划线停车位",
+                "ID4": "11",
+                "ID6": "5",
+                "electric": "63.41"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.726546,
+                    34.405202
+                ]
+            },
+            "properties": {
+                "name": "郑州-黄帝故里划线停车位",
+                "ID4": "4",
+                "ID6": "2",
+                "electric": "36.53"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.742419,
+                    34.422576
+                ]
+            },
+            "properties": {
+                "name": "郑州-新一城路边划线停车位",
+                "ID4": "15",
+                "ID6": "2",
+                "electric": "67.71"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.759257,
+                    34.418624
+                ]
+            },
+            "properties": {
+                "name": "郑州-米兰小镇两侧划线停车位",
+                "ID4": "4",
+                "ID6": "1",
+                "electric": "58.88"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.737982,
+                    34.68573
+                ]
+            },
+            "properties": {
+                "name": "郑州-金岱路地铁口划线停车位",
+                "ID4": "4",
+                "ID6": "1",
+                "electric": "47.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.549791,
+                    34.782057
+                ]
+            },
+            "properties": {
+                "name": "郑州-润众4S店免费停车位",
+                "ID4": "1",
+                "ID6": "0",
+                "electric": "83.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.691337,
+                    34.723702
+                ]
+            },
+            "properties": {
+                "name": "郑州-郑州云海停车场",
+                "ID4": "4",
+                "ID6": "1",
+                "electric": "46.2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.709303,
+                    34.76212
+                ]
+            },
+            "properties": {
+                "name": "郑州-郑州市便民停车场",
+                "ID4": "2",
+                "ID6": "1",
+                "electric": "82.67"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.682215,
+                    34.76888
+                ]
+            },
+            "properties": {
+                "name": "郑州-正道花园百货停车场",
+                "ID4": "3",
+                "ID6": "0",
+                "electric": "66.33"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.764767,
+                    34.79666
+                ]
+            },
+            "properties": {
+                "name": "郑州-秋澄街停车场",
+                "ID4": "2",
+                "ID6": "2",
+                "electric": "52.25"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.709796,
+                    34.709302
+                ]
+            },
+            "properties": {
+                "name": "郑州-橡树城停车场",
+                "ID4": "3",
+                "ID6": "1",
+                "electric": "49.75"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.771809,
+                    34.727078
+                ]
+            },
+            "properties": {
+                "name": "郑州-财富天阶停车场",
+                "ID4": "4",
+                "ID6": "1",
+                "electric": "64.8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.576969,
+                    34.885023
+                ]
+            },
+            "properties": {
+                "name": "郑州-丰业街划线停车位",
+                "ID4": "8",
+                "ID6": "2",
+                "electric": "42.94"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.54094,
+                    34.800133
+                ]
+            },
+            "properties": {
+                "name": "郑州-长椿路划线停车位",
+                "ID4": "2",
+                "ID6": "9",
+                "electric": "61.29"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.677082,
+                    34.861206
+                ]
+            },
+            "properties": {
+                "name": "郑州-茂源东街划线停车位",
+                "ID4": "0",
+                "ID6": "0",
+                "electric": "0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.932524,
+                    34.780633
+                ]
+            },
+            "properties": {
+                "name": "郑州-绿博园划线停车位",
+                "ID4": "1",
+                "ID6": "2",
+                "electric": "60.6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.750295,
+                    34.793967
+                ]
+            },
+            "properties": {
+                "name": "郑州-金茂府划线停车位",
+                "ID4": "6",
+                "ID6": "3",
+                "electric": "66.33"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.667489,
+                    34.86152
+                ]
+            },
+            "properties": {
+                "name": "郑州-鑫苑逸品香山划线停车位",
+                "ID4": "6",
+                "ID6": "3",
+                "electric": "63.8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.745322,
+                    34.733272
+                ]
+            },
+            "properties": {
+                "name": "郑州-经北六路二大街南半幅划线停车位",
+                "ID4": "0",
+                "ID6": "1",
+                "electric": "69.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.686402,
+                    34.707112
+                ]
+            },
+            "properties": {
+                "name": "郑州-花寨通站路划线停车位",
+                "ID4": "10",
+                "ID6": "5",
+                "electric": "52.56"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.663301,
+                    34.709999
+                ]
+            },
+            "properties": {
+                "name": "郑州-长江一号长江东路划线停车位",
+                "ID4": "2",
+                "ID6": "2",
+                "electric": "36.25"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.808527,
+                    34.712813
+                ]
+            },
+            "properties": {
+                "name": "郑州-明理南路经南四路划线停车位",
+                "ID4": "3",
+                "ID6": "3",
+                "electric": "56.4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.73975,
+                    34.721691
+                ]
+            },
+            "properties": {
+                "name": "郑州-丹尼斯经开第一大街划线停车位",
+                "ID4": "2",
+                "ID6": "0",
+                "electric": "65.5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.754029,
+                    34.708385
+                ]
+            },
+            "properties": {
+                "name": "郑州-世和小学第五大街划线停车位",
+                "ID4": "2",
+                "ID6": "0",
+                "electric": "56.5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.787884,
+                    34.708829
+                ]
+            },
+            "properties": {
+                "name": "郑州-千祥路十三大街划线停车位",
+                "ID4": "3",
+                "ID6": "1",
+                "electric": "69.8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.625635,
+                    34.81915
+                ]
+            },
+            "properties": {
+                "name": "郑州-胖沃惠济一号停车场",
+                "ID4": "2",
+                "ID6": "1",
+                "electric": "49.93"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.795108,
+                    34.707245
+                ]
+            },
+            "properties": {
+                "name": "郑州-经开瑞锦小区竹林苑划线停车位",
+                "ID4": "2",
+                "ID6": "5",
+                "electric": "62.23"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.754066,
+                    34.729295
+                ]
+            },
+            "properties": {
+                "name": "郑州-通信产业园第五大街划线停车位",
+                "ID4": "0",
+                "ID6": "0",
+                "electric": "0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.530944,
+                    34.804732
+                ]
+            },
+            "properties": {
+                "name": "郑州-河南豫海新迪奥迪4S店划线停车位",
+                "ID4": "0",
+                "ID6": "0",
+                "electric": "0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.731388,
+                    34.787517
+                ]
+            },
+            "properties": {
+                "name": "郑州-建业总部港A座划线停车位",
+                "ID4": "2",
+                "ID6": "1",
+                "electric": "49.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.72981,
+                    34.785508
+                ]
+            },
+            "properties": {
+                "name": "郑州-建业总部港D座划线停车位",
+                "ID4": "2",
+                "ID6": "4",
+                "electric": "41.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.687907,
+                    34.675903
+                ]
+            },
+            "properties": {
+                "name": "郑州-绿都澜湾青翠南路划线车位",
+                "ID4": "3",
+                "ID6": "1",
+                "electric": "66.1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.644047,
+                    34.700796
+                ]
+            },
+            "properties": {
+                "name": "郑州-长隆广场大学南路化纤停车位",
+                "ID4": "4",
+                "ID6": "3",
+                "electric": "40.46"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.674031,
+                    34.819461
+                ]
+            },
+            "properties": {
+                "name": "郑州-盈润停车场",
+                "ID4": "1",
+                "ID6": "1",
+                "electric": "36.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.547392,
+                    34.80735
+                ]
+            },
+            "properties": {
+                "name": "郑州-君来停车场",
+                "ID4": "2",
+                "ID6": "1",
+                "electric": "41.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.608888,
+                    34.76946
+                ]
+            },
+            "properties": {
+                "name": "郑州-正商金域停车场",
+                "ID4": "2",
+                "ID6": "1",
+                "electric": "45.33"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.628354,
+                    34.723088
+                ]
+            },
+            "properties": {
+                "name": "郑州-升龙6号院停车场",
+                "ID4": "2",
+                "ID6": "1",
+                "electric": "64.33"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.631287,
+                    34.767223
+                ]
+            },
+            "properties": {
+                "name": "郑州-丽景苑停车场",
+                "ID4": "2",
+                "ID6": "2",
+                "electric": "46.85"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.643644,
+                    34.715824
+                ]
+            },
+            "properties": {
+                "name": "郑州-二七万达停车场",
+                "ID4": "1",
+                "ID6": "2",
+                "electric": "58.67"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.745637,
+                    34.711729
+                ]
+            },
+            "properties": {
+                "name": "郑州-鸿源停车场",
+                "ID4": "2",
+                "ID6": "1",
+                "electric": "53.67"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.629399,
+                    34.825995
+                ]
+            },
+            "properties": {
+                "name": "郑州-金兰湾停车场",
+                "ID4": "2",
+                "ID6": "1",
+                "electric": "54.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.654858,
+                    34.720081
+                ]
+            },
+            "properties": {
+                "name": "郑州-名车广场停车场",
+                "ID4": "3",
+                "ID6": "1",
+                "electric": "59.6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.733732,
+                    34.738314
+                ]
+            },
+            "properties": {
+                "name": "郑州-陇海路通泰路停车场",
+                "ID4": "3",
+                "ID6": "1",
+                "electric": "50.75"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.700638,
+                    34.73848
+                ]
+            },
+            "properties": {
+                "name": "郑州-永茂世纪大厦停车场",
+                "ID4": "3",
+                "ID6": "1",
+                "electric": "48.5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.661576,
+                    34.84062
+                ]
+            },
+            "properties": {
+                "name": "郑州-魏河北路划线停车位",
+                "ID4": "1",
+                "ID6": "1",
+                "electric": "36.2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.713944,
+                    34.798103
+                ]
+            },
+            "properties": {
+                "name": "郑州-龙腾四街德润路划线停车位",
+                "ID4": "6",
+                "ID6": "0",
+                "electric": "48.17"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.740562,
+                    34.71471
+                ]
+            },
+            "properties": {
+                "name": "郑州-郑州第七人民医院经南五路划线停车位",
+                "ID4": "0",
+                "ID6": "0",
+                "electric": "0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.635663,
+                    34.822247
+                ]
+            },
+            "properties": {
+                "name": "郑州-爱丽丝临时停车场",
+                "ID4": "4",
+                "ID6": "1",
+                "electric": "45.2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.653433,
+                    34.706043
+                ]
+            },
+            "properties": {
+                "name": "郑州-高砦北划线停车位",
+                "ID4": "1",
+                "ID6": "1",
+                "electric": "73.4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.770496,
+                    34.753486
+                ]
+            },
+            "properties": {
+                "name": "郑州-汇艺银河里榆林南路划线停车位",
+                "ID4": "3",
+                "ID6": "3",
+                "electric": "81.53"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.797522,
+                    34.749518
+                ]
+            },
+            "properties": {
+                "name": "郑州-汉月路划线停车位",
+                "ID4": "0",
+                "ID6": "5",
+                "electric": "64.32"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.62143,
+                    34.835193
+                ]
+            },
+            "properties": {
+                "name": "郑州-长柳路划线停车位",
+                "ID4": "1",
+                "ID6": "1",
+                "electric": "74.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.757678,
+                    34.82203
+                ]
+            },
+            "properties": {
+                "name": "郑州-泷泽东路龙源东五街划线停车位",
+                "ID4": "2",
+                "ID6": "2",
+                "electric": "59.15"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.757443,
+                    34.773195
+                ]
+            },
+            "properties": {
+                "name": "郑州-国家税务总局众旺路划线车位",
+                "ID4": "1",
+                "ID6": "8",
+                "electric": "44.67"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.759331,
+                    34.768472
+                ]
+            },
+            "properties": {
+                "name": "郑州-国家电网省公司众旺路划线车位",
+                "ID4": "1",
+                "ID6": "7",
+                "electric": "45.65"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.657711,
+                    34.819439
+                ]
+            },
+            "properties": {
+                "name": "郑州-郑州海洋馆国基路划线停车位",
+                "ID4": "3",
+                "ID6": "0",
+                "electric": "44.93"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.60798,
+                    34.764744
+                ]
+            },
+            "properties": {
+                "name": "郑州-锦艺城停车场",
+                "ID4": "2",
+                "ID6": "2",
+                "electric": "59.7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.541068,
+                    34.79125
+                ]
+            },
+            "properties": {
+                "name": "郑州-宇通集团长椿路划线停车位",
+                "ID4": "10",
+                "ID6": "3",
+                "electric": "72.69"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.599493,
+                    34.795985
+                ]
+            },
+            "properties": {
+                "name": "郑州-国家大学科技园东区外方路划线停车位",
+                "ID4": "1",
+                "ID6": "1",
+                "electric": "60.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.613301,
+                    34.853938
+                ]
+            },
+            "properties": {
+                "name": "郑州-四季同达生态园路边划线车位",
+                "ID4": "2",
+                "ID6": "2",
+                "electric": "53.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.487616,
+                    34.809855
+                ]
+            },
+            "properties": {
+                "name": "郑州-高新SOHO路边划线车位",
+                "ID4": "2",
+                "ID6": "1",
+                "electric": "56.33"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.808579,
+                    34.753997
+                ]
+            },
+            "properties": {
+                "name": "郑州-商都嘉园白佛小区徐庄街划线停车位",
+                "ID4": "1",
+                "ID6": "1",
+                "electric": "54.5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.881448,
+                    34.717427
+                ]
+            },
+            "properties": {
+                "name": "郑州-华丰建材交易中心前程大道划线停车位",
+                "ID4": "4",
+                "ID6": "1",
+                "electric": "58.28"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.98258,
+                    34.71797
+                ]
+            },
+            "properties": {
+                "name": "郑州-祥和居商都大道划线停车位",
+                "ID4": "1",
+                "ID6": "1",
+                "electric": "39.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.304463,
+                    34.817917
+                ]
+            },
+            "properties": {
+                "name": "郑州-开封河大金明校区西门停车位",
+                "ID4": "0",
+                "ID6": "0",
+                "electric": "0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.309394,
+                    34.822761
+                ]
+            },
+            "properties": {
+                "name": "郑州-开封河大金明校区北门停车位",
+                "ID4": "1",
+                "ID6": "0",
+                "electric": "33.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.199782,
+                    34.801805
+                ]
+            },
+            "properties": {
+                "name": "郑州-开封恒大未来城北门划线停车位",
+                "ID4": "0",
+                "ID6": "0",
+                "electric": "0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.265445,
+                    34.802759
+                ]
+            },
+            "properties": {
+                "name": "郑州-开封市民之家路边划线停车位",
+                "ID4": "0",
+                "ID6": "0",
+                "electric": "0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.961553,
+                    34.716953
+                ]
+            },
+            "properties": {
+                "name": "郑州-天泽城路边划线停车位",
+                "ID4": "1",
+                "ID6": "0",
+                "electric": "84.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.576521,
+                    34.766769
+                ]
+            },
+            "properties": {
+                "name": "郑州-湖西路两侧划线停车位",
+                "ID4": "5",
+                "ID6": "6",
+                "electric": "57.75"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.825271,
+                    34.741793
+                ]
+            },
+            "properties": {
+                "name": "郑州-莆田家园东侧划线停车位",
+                "ID4": "3",
+                "ID6": "2",
+                "electric": "51.8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.764525,
+                    34.7485
+                ]
+            },
+            "properties": {
+                "name": "郑州-正商东方港湾划线停车位",
+                "ID4": "0",
+                "ID6": "0",
+                "electric": "0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.76087,
+                    34.743076
+                ]
+            },
+            "properties": {
+                "name": "郑州-康平路划线停车位",
+                "ID4": "0",
+                "ID6": "0",
+                "electric": "0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.338122,
+                    34.736571
+                ]
+            },
+            "properties": {
+                "name": "郑州-永威山悦浅山美术馆",
+                "ID4": "2",
+                "ID6": "0",
+                "electric": "45.4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.377773,
+                    34.709094
+                ]
+            },
+            "properties": {
+                "name": "郑州-永威万山湖樾",
+                "ID4": "2",
+                "ID6": "0",
+                "electric": "56.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.431351,
+                    34.772584
+                ]
+            },
+            "properties": {
+                "name": "郑州-永威溪樾划线停车位",
+                "ID4": "2",
+                "ID6": "1",
+                "electric": "69.47"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.860793,
+                    34.580651
+                ]
+            },
+            "properties": {
+                "name": "郑州-永威南樾划线停车位",
+                "ID4": "1",
+                "ID6": "0",
+                "electric": "72.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.853297,
+                    34.565225
+                ]
+            },
+            "properties": {
+                "name": "郑州-兴港永威和园划线停车位",
+                "ID4": "1",
+                "ID6": "1",
+                "electric": "77.5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.402475,
+                    34.7774
+                ]
+            },
+            "properties": {
+                "name": "郑州-郑上路划线停车位",
+                "ID4": "2",
+                "ID6": "1",
+                "electric": "60.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.387348,
+                    34.781623
+                ]
+            },
+            "properties": {
+                "name": "郑州-郑上路万山路划线停车位",
+                "ID4": "3",
+                "ID6": "1",
+                "electric": "46.75"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.380809,
+                    34.778979
+                ]
+            },
+            "properties": {
+                "name": "郑州-成皋路划线停车位",
+                "ID4": "1",
+                "ID6": "2",
+                "electric": "48.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.536072,
+                    34.703965
+                ]
+            },
+            "properties": {
+                "name": "郑州-光明路划线停车位",
+                "ID4": "7",
+                "ID6": "4",
+                "electric": "70.85"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.706063,
+                    34.709654
+                ]
+            },
+            "properties": {
+                "name": "郑州-紫东路农贸市场路边划线停车位",
+                "ID4": "2",
+                "ID6": "2",
+                "electric": "59.5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.59962,
+                    34.741671
+                ]
+            },
+            "properties": {
+                "name": "郑州-华山路划线停车位",
+                "ID4": "0",
+                "ID6": "0",
+                "electric": "0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.596575,
+                    34.740569
+                ]
+            },
+            "properties": {
+                "name": "郑州-昆仑望岳北门划线停车位",
+                "ID4": "0",
+                "ID6": "1",
+                "electric": "47.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.646627,
+                    34.704703
+                ]
+            },
+            "properties": {
+                "name": "郑州-郑航街与建云街划线停车位",
+                "ID4": "0",
+                "ID6": "1",
+                "electric": "52.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.741592,
+                    34.706509
+                ]
+            },
+            "properties": {
+                "name": "郑州-梁湖社区南门划线停车位",
+                "ID4": "0",
+                "ID6": "0",
+                "electric": "0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.738113,
+                    34.705378
+                ]
+            },
+            "properties": {
+                "name": "郑州-碧桂园天悦东门划线停车位",
+                "ID4": "0",
+                "ID6": "0",
+                "electric": "0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.737586,
+                    34.703831
+                ]
+            },
+            "properties": {
+                "name": "郑州-兰博基尼4S南侧划线停车位",
+                "ID4": "3",
+                "ID6": "0",
+                "electric": "73.67"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.733586,
+                    34.707262
+                ]
+            },
+            "properties": {
+                "name": "郑州-盛和小区西侧路边划线停车位",
+                "ID4": "1",
+                "ID6": "0",
+                "electric": "41.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.748834,
+                    34.707913
+                ]
+            },
+            "properties": {
+                "name": "郑州-阅山公馆西侧路边划线停车位",
+                "ID4": "0",
+                "ID6": "0",
+                "electric": "0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.739321,
+                    34.70354
+                ]
+            },
+            "properties": {
+                "name": "郑州-海珀兰轩南门划线停车位",
+                "ID4": "1",
+                "ID6": "1",
+                "electric": "46.6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.735556,
+                    34.721785
+                ]
+            },
+            "properties": {
+                "name": "郑州-东郡蓝湾东门划线停车位",
+                "ID4": "1",
+                "ID6": "2",
+                "electric": "66.67"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.713882,
+                    34.715333
+                ]
+            },
+            "properties": {
+                "name": "郑州-七里河路阳光城划线停车位",
+                "ID4": "1",
+                "ID6": "0",
+                "electric": "25.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.765934,
+                    34.760613
+                ]
+            },
+            "properties": {
+                "name": "郑州-创业路划线停车位",
+                "ID4": "4",
+                "ID6": "2",
+                "electric": "44.2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.693419,
+                    34.6832
+                ]
+            },
+            "properties": {
+                "name": "郑州-永威城营销中心划线停车位",
+                "ID4": "3",
+                "ID6": "3",
+                "electric": "68.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.622275,
+                    34.80721
+                ]
+            },
+            "properties": {
+                "name": "郑州-和昌花漾里停车场",
+                "ID4": "2",
+                "ID6": "2",
+                "electric": "55.5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.686052,
+                    34.716408
+                ]
+            },
+            "properties": {
+                "name": "郑州-北刘庄新村外围停车场",
+                "ID4": "3",
+                "ID6": "1",
+                "electric": "63.5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.623194,
+                    34.722984
+                ]
+            },
+            "properties": {
+                "name": "郑州-沁河路划线停车位",
+                "ID4": "0",
+                "ID6": "0",
+                "electric": "0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.618206,
+                    34.722949
+                ]
+            },
+            "properties": {
+                "name": "郑州-启福铭都南侧划线停车位",
+                "ID4": "0",
+                "ID6": "0",
+                "electric": "0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.616887,
+                    34.723712
+                ]
+            },
+            "properties": {
+                "name": "郑州-启福华都东侧划线停车位",
+                "ID4": "2",
+                "ID6": "0",
+                "electric": "53.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.633118,
+                    34.704197
+                ]
+            },
+            "properties": {
+                "name": "郑州-宏鑫花园东侧划线停车位",
+                "ID4": "0",
+                "ID6": "0",
+                "electric": "0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.631526,
+                    34.686541
+                ]
+            },
+            "properties": {
+                "name": "郑州-亚星万嘉百汇南侧划线停车位",
+                "ID4": "6",
+                "ID6": "9",
+                "electric": "57.77"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.639565,
+                    34.683885
+                ]
+            },
+            "properties": {
+                "name": "郑州-泰宏建业国际城9号院南侧划线停车位",
+                "ID4": "2",
+                "ID6": "2",
+                "electric": "42.25"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.640937,
+                    34.697868
+                ]
+            },
+            "properties": {
+                "name": "郑州-人和路米诺斯酒店划线停车位",
+                "ID4": "7",
+                "ID6": "3",
+                "electric": "64.82"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.654625,
+                    34.703741
+                ]
+            },
+            "properties": {
+                "name": "郑州-高砦南划线停车位",
+                "ID4": "3",
+                "ID6": "6",
+                "electric": "54.31"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.913542,
+                    34.793051
+                ]
+            },
+            "properties": {
+                "name": "郑州-翰林雅苑北侧划线停车位",
+                "ID4": "2",
+                "ID6": "1",
+                "electric": "60.27"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.781831,
+                    34.835866
+                ]
+            },
+            "properties": {
+                "name": "郑州-姚店提西门划线停车位",
+                "ID4": "0",
+                "ID6": "2",
+                "electric": "52.6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.642372,
+                    34.72897
+                ]
+            },
+            "properties": {
+                "name": "郑州-万山停车场",
+                "ID4": "4",
+                "ID6": "1",
+                "electric": "50.6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.718164,
+                    34.739841
+                ]
+            },
+            "properties": {
+                "name": "郑州-永恒慧园南侧划线停车位",
+                "ID4": "0",
+                "ID6": "0",
+                "electric": "0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.733133,
+                    34.759528
+                ]
+            },
+            "properties": {
+                "name": "郑州-鑫苑中央花园划线车位",
+                "ID4": "0",
+                "ID6": "0",
+                "electric": "0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.710907,
+                    34.747699
+                ]
+            },
+            "properties": {
+                "name": "郑州-玉凤路划线停车位",
+                "ID4": "0",
+                "ID6": "0",
+                "electric": "0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.581877,
+                    34.743392
+                ]
+            },
+            "properties": {
+                "name": "郑州-绿都城长城路划线停车位",
+                "ID4": "0",
+                "ID6": "0",
+                "electric": "0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.741748,
+                    34.755725
+                ]
+            },
+            "properties": {
+                "name": "郑州-宏光鑫城花园划线停车位",
+                "ID4": "0",
+                "ID6": "0",
+                "electric": "0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.711069,
+                    34.758486
+                ]
+            },
+            "properties": {
+                "name": "郑州-发展东郡西门划线停车位",
+                "ID4": "1",
+                "ID6": "0",
+                "electric": "57.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.710628,
+                    34.759654
+                ]
+            },
+            "properties": {
+                "name": "郑州-立春音乐酒馆划线停车位",
+                "ID4": "0",
+                "ID6": "0",
+                "electric": "0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.85026,
+                    34.744979
+                ]
+            },
+            "properties": {
+                "name": "郑州-永顺路划线停车位",
+                "ID4": "4",
+                "ID6": "2",
+                "electric": "67.17"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.738522,
+                    34.714203
+                ]
+            },
+            "properties": {
+                "name": "郑州-经开第一大街划线停车位",
+                "ID4": "0",
+                "ID6": "1",
+                "electric": "52.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.560379,
+                    34.75061
+                ]
+            },
+            "properties": {
+                "name": "郑州-兴国路划线停车位",
+                "ID4": "6",
+                "ID6": "0",
+                "electric": "42.83"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.600818,
+                    34.772425
+                ]
+            },
+            "properties": {
+                "name": "郑州-电厂路悠园划线停车位",
+                "ID4": "0",
+                "ID6": "0",
+                "electric": "0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.610983,
+                    34.774369
+                ]
+            },
+            "properties": {
+                "name": "郑州-煤仓北街路边划线停车位",
+                "ID4": "3",
+                "ID6": "2",
+                "electric": "64.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.262286,
+                    34.803078
+                ]
+            },
+            "properties": {
+                "name": "郑州-开封市民之家西侧划线停车位",
+                "ID4": "0",
+                "ID6": "0",
+                "electric": "0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.635287,
+                    34.728879
+                ]
+            },
+            "properties": {
+                "name": "郑州-淮河东路划线停车位",
+                "ID4": "0",
+                "ID6": "0",
+                "electric": "0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.646601,
+                    34.708733
+                ]
+            },
+            "properties": {
+                "name": "郑州-长江路建云街划线停车位",
+                "ID4": "0",
+                "ID6": "0",
+                "electric": "0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.650552,
+                    34.708153
+                ]
+            },
+            "properties": {
+                "name": "郑州-行云路划线停车位",
+                "ID4": "2",
+                "ID6": "1",
+                "electric": "51.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.659521,
+                    34.701653
+                ]
+            },
+            "properties": {
+                "name": "郑州-沅江路居然之家南侧划线车位",
+                "ID4": "5",
+                "ID6": "5",
+                "electric": "50.34"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.662616,
+                    34.694242
+                ]
+            },
+            "properties": {
+                "name": "郑州-丹枫路划线停车位",
+                "ID4": "0",
+                "ID6": "0",
+                "electric": "0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.665332,
+                    34.695303
+                ]
+            },
+            "properties": {
+                "name": "郑州-碧云路划线停车位",
+                "ID4": "0",
+                "ID6": "0",
+                "electric": "0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.679139,
+                    34.696104
+                ]
+            },
+            "properties": {
+                "name": "郑州-黄河科技学院附属医院划线停车位",
+                "ID4": "0",
+                "ID6": "0",
+                "electric": "0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.670499,
+                    34.689205
+                ]
+            },
+            "properties": {
+                "name": "郑州-黄河科技学院西门划线停车位",
+                "ID4": "1",
+                "ID6": "0",
+                "electric": "49.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.719501,
+                    34.604439
+                ]
+            },
+            "properties": {
+                "name": "郑州-祥安路划线停车位",
+                "ID4": "2",
+                "ID6": "1",
+                "electric": "48.67"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.712006,
+                    34.597678
+                ]
+            },
+            "properties": {
+                "name": "郑州-富田兴龙湾西侧划线停车位",
+                "ID4": "0",
+                "ID6": "0",
+                "electric": "0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.706573,
+                    34.604307
+                ]
+            },
+            "properties": {
+                "name": "郑州-河南检察职业学院南门划线停车位",
+                "ID4": "0",
+                "ID6": "0",
+                "electric": "0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.714752,
+                    34.704579
+                ]
+            },
+            "properties": {
+                "name": "郑州-岗南路划线停车位",
+                "ID4": "0",
+                "ID6": "1",
+                "electric": "64.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.805379,
+                    34.815161
+                ]
+            },
+            "properties": {
+                "name": "郑州-德惠街划线停车位",
+                "ID4": "1",
+                "ID6": "0",
+                "electric": "37.2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.633148,
+                    34.709596
+                ]
+            },
+            "properties": {
+                "name": "郑州-亚星雅居停车场",
+                "ID4": "3",
+                "ID6": "1",
+                "electric": "65.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.681502,
+                    34.790759
+                ]
+            },
+            "properties": {
+                "name": "郑州-农科院东广场停车场",
+                "ID4": "2",
+                "ID6": "1",
+                "electric": "63.93"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.7041,
+                    34.777674
+                ]
+            },
+            "properties": {
+                "name": "郑州-姚寨临时停车场",
+                "ID4": "2",
+                "ID6": "2",
+                "electric": "44.9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.651014,
+                    34.82511
+                ]
+            },
+            "properties": {
+                "name": "郑州-银河路南广场第二停车场",
+                "ID4": "2",
+                "ID6": "1",
+                "electric": "48.67"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.6227,
+                    34.878049
+                ]
+            },
+            "properties": {
+                "name": "郑州-惠文小区西门划线停车位",
+                "ID4": "2",
+                "ID6": "2",
+                "electric": "59.95"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.751062,
+                    34.780419
+                ]
+            },
+            "properties": {
+                "name": "郑州-民航花园东侧划线停车位",
+                "ID4": "3",
+                "ID6": "0",
+                "electric": "52.27"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.738656,
+                    34.786205
+                ]
+            },
+            "properties": {
+                "name": "郑州-天泽街划线停车位",
+                "ID4": "2",
+                "ID6": "0",
+                "electric": "57.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.645243,
+                    34.822906
+                ]
+            },
+            "properties": {
+                "name": "郑州-金水区总医院路侧划线停车位",
+                "ID4": "0",
+                "ID6": "0",
+                "electric": "0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.648634,
+                    34.827961
+                ]
+            },
+            "properties": {
+                "name": "郑州-丰庆路划线车位",
+                "ID4": "1",
+                "ID6": "0",
+                "electric": "32.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.622064,
+                    34.873758
+                ]
+            },
+            "properties": {
+                "name": "郑州-清华园路划线停车位",
+                "ID4": "3",
+                "ID6": "1",
+                "electric": "61.25"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.60107,
+                    34.72284
+                ]
+            },
+            "properties": {
+                "name": "郑州-聚龙花园北侧划线停车位",
+                "ID4": "0",
+                "ID6": "0",
+                "electric": "0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.426911,
+                    34.785923
+                ]
+            },
+            "properties": {
+                "name": "郑州-荥阳福民路划线停车位",
+                "ID4": "2",
+                "ID6": "0",
+                "electric": "74.2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.422046,
+                    34.786143
+                ]
+            },
+            "properties": {
+                "name": "郑州-荥阳惠民路划线停车位",
+                "ID4": "1",
+                "ID6": "1",
+                "electric": "65.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.411454,
+                    34.787191
+                ]
+            },
+            "properties": {
+                "name": "郑州-荥阳京城花园划线停车位",
+                "ID4": "1",
+                "ID6": "1",
+                "electric": "51.4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.379404,
+                    34.7949
+                ]
+            },
+            "properties": {
+                "name": "郑州-荥阳汜河路划线停车位",
+                "ID4": "0",
+                "ID6": "3",
+                "electric": "46.4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.433502,
+                    34.778303
+                ]
+            },
+            "properties": {
+                "name": "郑州-荥阳繁荣街划线停车位",
+                "ID4": "4",
+                "ID6": "1",
+                "electric": "53.48"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.412193,
+                    34.7806
+                ]
+            },
+            "properties": {
+                "name": "郑州-荥阳香竹路划线停车位",
+                "ID4": "0",
+                "ID6": "0",
+                "electric": "0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.396518,
+                    34.7814
+                ]
+            },
+            "properties": {
+                "name": "郑州-荥阳永安街划线停车位",
+                "ID4": "2",
+                "ID6": "3",
+                "electric": "54.6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.399746,
+                    34.786107
+                ]
+            },
+            "properties": {
+                "name": "郑州-荥阳广武路划线停车位",
+                "ID4": "0",
+                "ID6": "2",
+                "electric": "46.5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.750477,
+                    34.729557
+                ]
+            },
+            "properties": {
+                "name": "郑州-经开第四大街经北五路划线停车位",
+                "ID4": "0",
+                "ID6": "1",
+                "electric": "51.0"
+            }
+        }
+    ]
+}
